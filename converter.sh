@@ -1,16 +1,5 @@
 #! /usr/bin/bash
 
-# ECHO COMMAND
-#echo Hello World!
-
-# VARIABLES
-# Uppercase by convention
-# Letter, numbers,underscores
- #NAME="BRAD"
-#echo "My name is $NAME"
-
-
-#user input
 read -p "Would you like to convert the README.md file to docx or html?
 " SELECTEDFORMAT
 
